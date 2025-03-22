@@ -37,12 +37,3 @@ The Pipeline is consisted of following parts:
     - Data Augmentation
 - Evaluation and Analysis
 
-## Standout Suggestions
-**TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
-As further improvements, following steps have been done:
-
-- Hyperparametr optimization for `learning-rate` and `fully-connected layer size`
-- Debugger Configuration
-- Profiler Configuration
-- Cost analysis
-- Multi instance training
